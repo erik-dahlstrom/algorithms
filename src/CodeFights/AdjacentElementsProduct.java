@@ -1,5 +1,3 @@
-//completed
-
 package CodeFights;
 
 public class AdjacentElementsProduct {

@@ -1,4 +1,4 @@
-package CodeFights;//completed
+package CodeFights;
 
 public class Palindrome {
 

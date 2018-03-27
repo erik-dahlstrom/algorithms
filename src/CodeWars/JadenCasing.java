@@ -1,4 +1,4 @@
-package CodeWars;//completed
+package CodeWars;
 
 public class JadenCasing {
 

@@ -1,4 +1,4 @@
-package CodeWars;//Completed
+package CodeWars;
 
 public class Age {
 

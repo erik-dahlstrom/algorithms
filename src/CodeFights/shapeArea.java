@@ -1,5 +1,3 @@
-//complete
-
 package CodeFights;
 
 public class shapeArea {

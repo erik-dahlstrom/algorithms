@@ -1,4 +1,6 @@
-package CodeWars;//incomplete
+package CodeWars;
+
+//incomplete
 
 public class Walk {
 
